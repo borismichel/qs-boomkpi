@@ -1,0 +1,8 @@
+{
+  "name" : "qs-boomkpi",
+  "description" : "qs-boomkpi",
+  "icon" : "extension",
+  "type" : "visualization",
+  "version": "1.0",
+  "author": "Boris Michel, Boris@ALCMST.net"
+}
